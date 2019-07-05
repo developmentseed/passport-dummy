@@ -2,6 +2,8 @@
 
 [Passport](https://github.com/jaredhanson/passport) strategy for dummy authentication.
 
+**NO LONGER MAINTAINED**: You can find an up to date fork at [@voxpelli/passport-dummy](https://www.npmjs.com/package/@voxpelli/passport-dummy)
+
 ## Installation
 
     $ npm install passport-dummy
